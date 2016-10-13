@@ -2,6 +2,13 @@ Reading List
 
 10-12-16
 
+"Intro to Linux"
 http://www.tldp.org/LDP/intro-linux/html/sect_03_01.html
+
+"Git install instructions"
+http://askubuntu.com/questions/765565/how-to-fix-processing-with-runit-and-git-daemon-run
+
+"Git Tutorial"
+http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 
 
